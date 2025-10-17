@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask-cors==4.0.0
+python-dotenv==1.0.1
+itsdangerous==2.2.0
+Werkzeug==3.0.3
+gunicorn==21.2.0
+
